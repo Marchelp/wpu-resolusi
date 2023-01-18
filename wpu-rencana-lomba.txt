@@ -1,7 +1,6 @@
 RENCANA LOMBA WPU
 
 - Mempelajari front end
-  * HTML
   * CSS
   * JS
    ^ React
