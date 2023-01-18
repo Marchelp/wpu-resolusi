@@ -8,3 +8,4 @@ RENCANA LOMBA WPU
 - Mempelajari back end
   *PHP
 - UI/UX
+ *Figma
