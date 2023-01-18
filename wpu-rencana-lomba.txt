@@ -5,3 +5,4 @@ RENCANA LOMBA WPU
   * CSS
   * JS
 - Mempelajari back end
+- UI/UX
