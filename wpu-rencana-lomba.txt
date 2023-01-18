@@ -1,0 +1,7 @@
+RENCANA LOMBA WPU
+
+- Mempelajari front end
+  * HTML
+  * CSS
+  * JS
+- Mempelajari back end
