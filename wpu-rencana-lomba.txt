@@ -4,5 +4,8 @@ RENCANA LOMBA WPU
   * HTML
   * CSS
   * JS
+   ^ React
 - Mempelajari back end
+  *PHP
 - UI/UX
+ *Figma
